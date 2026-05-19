@@ -8,6 +8,6 @@ Language: Python
 
 ## Topics Covered
 ✔ Arrays  
-
+✔ LinkedList 
 
 
